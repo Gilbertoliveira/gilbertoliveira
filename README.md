@@ -1,8 +1,8 @@
-<font-size:28px>I'm a currently a professional in progress</p>
+# I'm a currently a professional in progress [x]
 
-In love with front end technologies;
+# In love with front end technologies [x]
 
-How to reach me:
+# How to reach me: <a href"https://www.linkedin.com/in/gilberto-oliveira-a06601243/">Linkedin"</a>
 
 
 
