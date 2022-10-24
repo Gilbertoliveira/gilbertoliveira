@@ -1,4 +1,4 @@
-<ftont-size:28px>I'm a currently a professional in progress</p>
+<font-size:28px>I'm a currently a professional in progress</p>
 
 In love with front end technologies;
 
