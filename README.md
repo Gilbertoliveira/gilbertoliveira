@@ -17,7 +17,14 @@
 <img width="90px" height="30px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo">
 <img width="90px" height="30px" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git-logo">
 <img width="90px" height="30px" src="https://camo.githubusercontent.com/b0c0c26092d4569c286c5c2526119b1f2958b1be465c5affa8ffe76a9f2b3d6a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5653436f64652d3030303030303f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343" alt="vscode-logo">
+  <br>
+  <h3>Statistics</h>
   
+##
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilbertoliveira)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilbertoliveira)](https://github.com/anuraghazra/github-readme-stats)
  
 
 
