@@ -1,4 +1,10 @@
-### Hi there 👋
+I'm a currently a professional in progress
+
+In love with front end technologies;
+
+How to reach me:
+
+
 
 <!--
 **Gilbertoliveira/gilbertoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
