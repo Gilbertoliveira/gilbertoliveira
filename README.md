@@ -1,4 +1,4 @@
-<h1 align="left" font-size="22px">I'm currently a professional in progress </h1>
+<h1 align="left" font-size="12px">I'm currently a professional in progress </h1>
 
 
 # I'm a currently a professional in progress [x]
