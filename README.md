@@ -1,3 +1,6 @@
+<h1 align="left" font-size="22px">I'm currently a professional in progress </h1>
+
+
 # I'm a currently a professional in progress [x]
 
 # In love with front end technologies [x]
