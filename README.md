@@ -1,6 +1,9 @@
 <h5 align="left">:man_student: I'm currently a professional in progress.</h5>
 <h5 align="left">:computer: Learning front-end technologies.</h5>
 <h5 align="left">:point_right: How to reach me: <a href="https://www.linkedin.com/in/gilberto-oliveira-a06601243/">Linkedin</a></h5>
+
+
+* https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 <!--
 **Gilbertoliveira/gilbertoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
