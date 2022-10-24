@@ -1,7 +1,7 @@
-<h3 align="left">I'm currently a professional in progress</h3>
-<h3 align="left">In love with front end technologies</h3>
+<h5 align="left">I'm currently a professional in progress</h5>
+<h5 align="left">In love with front end technologies</h5>
 
-<h3 align="left">How to reach me:</h3><a href="https://www.linkedin.com/in/gilberto-oliveira-a06601243/">Linkedin</a>
+<h5 align="left">How to reach me:</h5><a href="https://www.linkedin.com/in/gilberto-oliveira-a06601243/">Linkedin</a>
 
 
 
