@@ -1,11 +1,7 @@
-<h1 align="left" font-size="12px">I'm currently a professional in progress </h1>
+<h1 align="left">I'm currently a professional in progress</h1>
+<h1 align="left">In love with front end technologies</h1>
 
-
-# I'm a currently a professional in progress [x]
-
-# In love with front end technologies [x]
-
-# How to reach me: <a href"https://www.linkedin.com/in/gilberto-oliveira-a06601243/">Linkedin"</a>
+<h1 align="left">How to reach me:</h1> <a href="https://www.linkedin.com/in/gilberto-oliveira-a06601243/">Linkedin"</a>
 
 
 
