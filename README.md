@@ -4,7 +4,7 @@
   
 <h5 align="left">:man_student: I'm currently a professional in progress.</h5>
 <h5 align="left">:computer: Learning front-end technologies.</h5>
-<h5 align="left">:point_right: How to reach me: <a href="https://www.linkedin.com/in/gilberto-oliveira-a06601243/">Linkedin</a></h5>
+<h5 align="left">:point_right: How to reach me: <a href="https://www.linkedin.com/in/gilberto-oliveira-a06601243/"> <img width="65px" height="18px"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></h5>
 <br>
 <h3>Language and tools<h5>
   
